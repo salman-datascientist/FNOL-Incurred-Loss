@@ -1,4 +1,4 @@
-# FNOL_Incurred_Loss
+# FNOL Incurred Loss Prediction
 To predict the ultimate individual claim amounts on historical FNOL Motor Data
 
 Problem Statement:
